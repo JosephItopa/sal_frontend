@@ -1,8 +1,6 @@
 import requests
 import streamlit as st
 from datetime import date
-import matplotlib.pyplot as plt
-
 
 # App Config
 st.set_page_config(
